@@ -5,7 +5,8 @@ npm run build
 cd dist
 git init
 git status
-git checkout -b gh-pages-1
-git add .
+git remote add gh-pages https://github.com/NTIHS-IT/react.git
+git checkout -b gh-pages
+git add --all
 git commit -m "build"
-git push origin gh-pages -f
+git push --set-upstream gh-pages gh-pages -f
