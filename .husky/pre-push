@@ -11,5 +11,5 @@ git checkout -b gh-pages
 git add --all
 git commit -m "build"
 git push --set-upstream gh-pages gh-pages -f
-
+cd ..
 rm -r dist
