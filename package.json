@@ -3,13 +3,8 @@
   "scripts": {
     "build": "slidev build --base /react",
     "dev": "slidev --open",
-    "export": "slidev export"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "./pre-push.sh",
-      "pre-commit": "npm run dev"
-    }
+    "export": "slidev export",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@slidev/cli": "^0.27.9",
