@@ -7,5 +7,5 @@ git init
 git status
 git checkout -b gh-pages-1
 git add .
-git commmit -m "build"
+git commit -m "build"
 git push origin gh-pages -f
