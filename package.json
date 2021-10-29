@@ -5,6 +5,11 @@
     "dev": "slidev --open",
     "export": "slidev export"
   },
+  "husky": {
+    "hooks": {
+      "pre-push": "./pre-push.sh"
+    }
+  },
   "dependencies": {
     "@slidev/cli": "^0.27.9",
     "@slidev/theme-default": "*",
