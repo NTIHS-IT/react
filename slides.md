@@ -30,6 +30,7 @@ download: true
 目前專研Kotlin, TypeScript\
 每天承受Young佬的嘲諷\
 目前正積極開發[`靠北南工+`](https://github.com/NTIHS-FK)
+與貢獻Deno_std
 
 ---
 
@@ -55,3 +56,16 @@ download: true
 - 單純Ryan Dahl覺的Node.js非常不好用重新用Rust重寫
 - Deno 是運行TypeScript & JavaScript的環境
 
+---
+
+# React 實做摟 ~~
+
+打開[codesandbox.io](https://codesandbox.io/)
+
+<img id="qrcode" src="/qrcode_codesandbox.io.png" />
+
+<style>
+#qrcode {
+  width: 300px;
+}
+</style>
