@@ -1,10 +1,11 @@
 ---
 layout: center
+download: true
 ---
 
 # React
 
-<img id="react-logo" src="public/1174949_js_react%20js_logo_react_react%20native_icon.png" />
+<img id="react-logo" src="/react-logo.png" />
 
 
 <style>
@@ -53,6 +54,4 @@ layout: center
 ## Node.js & Deno的淵源
 - 單純Ryan Dahl覺的Node.js非常不好用重新用Rust重寫
 - Deno 是運行TypeScript & JavaScript的環境
-
----
 

@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /react",
     "dev": "slidev --open",
     "export": "slidev export"
   },
@@ -10,5 +10,8 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
-  "name": "react"
+  "name": "react",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
 }
