@@ -30,8 +30,17 @@ download: true
 目前專研Kotlin, TypeScript\
 每天承受Young佬的嘲諷\
 目前正積極開發[`靠北南工+`](https://github.com/NTIHS-FK)\
-與貢獻[`Deno_std`](https://github.com/xiaoxigua-1/deno_std)
+與貢獻[`Deno_std`](https://github.com/xiaoxigua-1/deno_std)\
+我的個人[`網站`](https://xiaoxigua-1.github.io)
 
+<img id="myWebsite" src="/qrcode_xiaoxigua-1.github.io.png" />
+
+<style>
+#myWebsite {
+  width: 300px;
+
+}
+</style>
 ---
 
 # 使用前端框架的好處
@@ -70,7 +79,9 @@ download: true
 }
 </style>
 
+---
 
+# Hello World
 ```jsx
 // App.jsx
 import React from 'react';
@@ -79,6 +90,37 @@ import React from 'react';
 export default function App() {
   return (
     <div>Hello World</div>
+  );
+}
+```
+
+---
+
+# Plus and Minus Button
+
+```jsx
+import React, {useState} from 'react';
+export default function App() {
+  const [count, setCount] = useState(0);
+  return (
+    <div>
+      {count}
+      <br />
+      <button
+        onClick={() => {
+          setCount(count + 1);
+        }}
+      >
+        plus
+      </button>
+      <button
+        onClick={() => {
+          setCount(count - 1);
+        }}
+      >
+        Minus
+      </button>
+    </div>
   );
 }
 ```
