@@ -29,8 +29,8 @@ download: true
 
 目前專研Kotlin, TypeScript\
 每天承受Young佬的嘲諷\
-目前正積極開發[`靠北南工+`](https://github.com/NTIHS-FK)
-與貢獻Deno_std
+目前正積極開發[`靠北南工+`](https://github.com/NTIHS-FK)\
+與貢獻[`Deno_std`](https://github.com/xiaoxigua-1/deno_std)
 
 ---
 
@@ -69,3 +69,16 @@ download: true
   width: 300px;
 }
 </style>
+
+
+```jsx
+// App.jsx
+import React from 'react';
+
+// Hello World component
+export default function App() {
+  return (
+    <div>Hello World</div>
+  );
+}
+```
