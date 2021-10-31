@@ -103,26 +103,22 @@ export default function App() {
 
 ```jsx
 import React, {useState} from 'react';
+
 export default function App() {
   const [count, setCount] = useState(0);
   return (
     <div>
       {count}
-      <br />
       <button
         onClick={() => {
           setCount(count + 1);
         }}
-      >
-        plus
-      </button>
+      >plus</button>
       <button
         onClick={() => {
           setCount(count - 1);
         }}
-      >
-        Minus
-      </button>
+      >Minus</button>
     </div>
   );
 }
