@@ -51,7 +51,7 @@ download: true
 - 好維護
   - 東西不用通通往JavaScript塞
 - 提升效能
-  - DOM更新統一由Farmework管理漸低無意義的DOM更新
+  - DOM更新統一由Farmework管理，漸低無意義的DOM更新
 
 
 ---
@@ -62,7 +62,7 @@ download: true
 - 運行JavaScript的環境
 
 ## Node.js & Deno的淵源
-- 單純Ryan Dahl覺的Node.js非常不好用重新用Rust重寫
+- 單純Ryan Dahl覺的Node.js非常不好用重新用Rust重寫一個
 - Deno 是運行TypeScript & JavaScript的環境
 
 ---
@@ -124,3 +124,17 @@ export default function App() {
   );
 }
 ```
+
+---
+
+# React component library
+
+- Material-UI
+- Ant Design
+- React Bootstrap
+- Grommet
+- Rebass
+- Blueprint
+- Semantic UI React
+- Retool
+
