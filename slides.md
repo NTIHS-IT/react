@@ -34,11 +34,18 @@ download: true
 我的個人[`網站`](https://xiaoxigua-1.github.io)
 
 <img id="myWebsite" src="/qrcode_xiaoxigua-1.github.io.png" />
+<img id="avatar" src="https://cdn.discordapp.com/avatars/458988300418416640/bb29b06043a8d3fee0079190c42cfbad.webp?size=4096" />
 
 <style>
+
 #myWebsite {
   width: 300px;
-
+}
+#avatar {
+  position: absolute;
+  right: 50px;
+  top: 30px;
+  border-radius: 50%;
 }
 </style>
 ---
@@ -67,7 +74,7 @@ download: true
 
 ---
 
-# React 實做摟 ~~
+# React 實作摟 ~~
 
 打開[codesandbox.io](https://codesandbox.io/)
 
