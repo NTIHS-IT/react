@@ -11,6 +11,7 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "playwright-chromium": "^1.16.2",
+    "slidev-theme-penguin": "^1.1.2",
     "slidev-theme-unicorn": "^1.0.21"
   },
   "name": "react",

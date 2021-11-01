@@ -70,6 +70,12 @@ introImage: https://cdn.discordapp.com/avatars/458988300418416640/bb29b06043a8d3
 
 ---
 
+# 使用 Component 的概念
+- 加快開發速度
+- 方便管理
+
+---
+
 # React 實作摟 ~~
 
 打開[codesandbox.io](https://codesandbox.io/)
