@@ -73,6 +73,7 @@ introImage: https://cdn.discordapp.com/avatars/458988300418416640/bb29b06043a8d3
 # 使用 Component 的概念
 - 加快開發速度
 - 方便管理
+<img src="/component.png" style="width: 450px;" />
 
 ---
 
