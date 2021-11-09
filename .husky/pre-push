@@ -1,6 +1,8 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
+
+[ -d "./dist/" ] && rm -rf ./dist/
 npm run build
 cd dist
 git init
