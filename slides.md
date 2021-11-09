@@ -54,7 +54,7 @@ introImage: https://cdn.discordapp.com/avatars/458988300418416640/bb29b06043a8d3
 - 好維護
   - 東西不用通通往JavaScript塞
 - 提升效能
-  - DOM更新統一由Farmework管理，漸低無意義的DOM更新
+  - DOM更新統一由Farmework管理，降低無意義的DOM更新
 
 
 ---
