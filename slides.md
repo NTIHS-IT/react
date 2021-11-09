@@ -76,6 +76,24 @@ introImage: https://cdn.discordapp.com/avatars/458988300418416640/bb29b06043a8d3
 <img src="/component.png" style="width: 450px;" />
 
 ---
+layout: center
+---
+# JSX是什麼?
+
+
+---
+layout: center
+---
+
+# React Hook 又是什麼
+
+---
+layout: center
+---
+
+## [官往介紹網址](https://zh-hant.reactjs.org/docs/hooks-intro.html)
+<img src="/qrcode_zh-hant.reactjs.org.png" />
+---
 
 # React 實作摟 ~~
 
